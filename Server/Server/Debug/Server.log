@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(134,6): warning C4101: 'retval' :참조되지 않은 지역 변수입니다.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(230,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(252,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 'inet_ntoa' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(276,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 'inet_ntoa' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(422,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(425,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(428,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(445,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(478,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(481,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(500,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(734,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Server\main.cpp(748,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+  Server.vcxproj -> C:\Users\dol42\Desktop\TCP와UCP를 활용한 채팅프로그램_GUI적용단계\GUI_ChatProgram\Server\Debug\Server.exe
